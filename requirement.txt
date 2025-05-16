@@ -1,0 +1,10 @@
+nltk==3.9.1
+scikit-learn==1.5.2
+joblib==1.4.2
+textacy==0.13.0
+autocorrect==2.6.1
+contractions==0.1.73
+emoji==2.14.1
+matplotlib
+seaborn
+wordcloud
